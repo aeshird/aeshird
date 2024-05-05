@@ -13,11 +13,17 @@ I am a senior at The University of Iowa graduting in May of 2024. I am a double 
 ### Courses Completed
 
 BAIS:3020	Computational Thinking
+
 BAIS:3200	Database Management
+
 BAIS:3250	Data Wrangling
+
 BAIS:3300   Digital Prodcut Management 
+
 BAIS:3500	Data Mining
+
 BAIS:4150	Business Analytics & Information Systems Capstone
+
 BAIS:4280   Cybersecurity
 
 ---  
