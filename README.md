@@ -10,7 +10,7 @@ I am a senior at The University of Iowa graduting in May of 2024. I am a double 
 
 ---  
 
-### Courses Completed
+### Completed Courses
 
 BAIS:3020	-   Computational Thinking
 
