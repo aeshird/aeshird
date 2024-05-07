@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a senior at The University of Iowa graduting in May of 2024. I am a double major in Business Analytics & Information Systems and Sport and Recreation Management. I am also pursuing an Event Management Certificate.
+I am a senior at The University of Iowa graduting in May of 2024. I will graduate with two degrees: Business Analytics & Information Systems and Sport and Recreation Management. I am also pursuing an Event Management Certificate.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ainsleyshird/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ainsleyshird.com/)
 
