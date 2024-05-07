@@ -18,7 +18,7 @@ BAIS:3200	-   Database Management
 
 BAIS:3250	-   Data Wrangling
 
-BAIS:3300   -   Digital Prodcut Management 
+BAIS:3300   -   Digital Product Management 
 
 BAIS:3500	-   Data Mining
 
