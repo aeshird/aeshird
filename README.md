@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a senior at The University of Iowa graduting in May of 2024. I will graduate with two degrees: Business Analytics & Information Systems and Sport and Recreation Management. I am also pursuing an Event Management Certificate.
+I graduated from The University of Iowa in May 2024, earning degrees in Business Analytics & Information Systems and Sport and Recreation Management. Additionally, I earned an Event Management Certificate to guide my ultimate goal of working in the motorsport industry. My passion for motorsports stems from my continuing interest in cars and racing. I am eager to enhance my skills and gain additional experience in any way that presents itself.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ainsleyshird/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ainsleyshird.com/)
 
