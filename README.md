@@ -10,7 +10,7 @@ I graduated from The University of Iowa in May 2024, earning degrees in Business
 
 ---  
 
-## Completed Courses
+## Courses Completed
 
 BAIS:3020	-   Computational Thinking
 
